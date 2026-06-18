@@ -25,7 +25,7 @@ The notebook runs the same pipeline against any of three backends, selected via 
 
 | Backend | When to use | Key parameters |
 |---|---|---|
-| **`remote`** (`Backend.REMOTE`) | You have a running Bioptimus FastAPI server (Docker or bare-metal) | `api_url` |
+| **`remote`** (`Backend.REMOTE`) | You have a running Bioptimus FastAPI server (Docker) | `api_url` |
 | **`aws`** (`Backend.AWS`) | You have a deployed SageMaker endpoint | `endpoint_name`, `region_name` |
 | **`local`** (`Backend.LOCAL`) | You have a CUDA GPU plus the `.pt2` checkpoints (no server) | `checkpoints`, `device` |
 
