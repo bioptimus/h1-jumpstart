@@ -63,3 +63,4 @@ The notebook downloads its demo data automatically. To use your own slides, drop
 | Cohorts guide | https://docs.bioptimus.com/guides/workflows/cohort |
 | Visualizing results | https://docs.bioptimus.com/guides/get-started/visualizing-results |
 | Choosing a model | https://docs.bioptimus.com/documentation/models/choosing-a-model |
+| Logging | https://docs.bioptimus.com/guides/get-started/logging |
